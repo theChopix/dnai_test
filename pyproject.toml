@@ -1,0 +1,9 @@
+[project]
+name = "dnai-assignment"
+description = "dnai python developer assignment"
+version = "1.0"
+dependencies = [
+    "pip-tools",
+    "pre-commit",
+    "click",
+]
