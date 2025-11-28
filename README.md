@@ -42,6 +42,13 @@ After installing the dependencies from `requirements.txt`, install pre-commit (o
 pre-commit install
 ```
 
+### Testing Setup
+
+To execute each of the tests in the `tests` folder, execute command:
+```
+PYTHONPATH=. pytest
+```
+
 ## Usage
 
 The tool is executed through the command line using the main.py entry point.

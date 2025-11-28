@@ -6,4 +6,6 @@ dependencies = [
     "pip-tools",
     "pre-commit",
     "click",
+    "numpy",
+    "pytest"
 ]
